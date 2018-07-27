@@ -1,0 +1,123 @@
+# depslib dependency file v1.0
+1508073936 source:k:\c course design\students information system\caowei.c
+	"caowei.h"
+	"string.h"
+	<stdio.h>
+
+1508059252 k:\c course design\students information system\caowei.h
+	"datebase.h"
+
+1508084196 k:\c course design\students information system\datebase.h
+	<stdio.h>
+	<stdlib.h>
+	"List_L.h"
+
+1508001770 k:\c course design\students information system\list_l.h
+
+1508084313 source:k:\c course design\students information system\datebase.c
+	<string.h>
+	<stdio.h>
+	"datebase.h"
+
+1508058345 source:k:\c course design\students information system\interfacetree.c
+	<stdarg.h>
+	"InterfaceTree.h"
+
+1508055549 k:\c course design\students information system\interfacetree.h
+	<stdio.h>
+	<stdlib.h>
+
+1507647813 source:k:\c course design\students information system\list_l.c
+	<stdio.h>
+	<stdlib.h>
+	"List_L.h"
+
+1508084479 source:k:\c course design\students information system\main.c
+	<stdio.h>
+	<stdlib.h>
+	"InterfaceTree.h"
+	"quanbao.h"
+	"datebase.h"
+
+1508073213 k:\c course design\students information system\quanbao.h
+	"caowei.h"
+	"datebase.h"
+
+1508085313 source:k:\c course design\students information system\quanbao.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"quanbao.h"
+	"string.h"
+
+1508075783 source:k:\c course design\students information system\weixi.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	"weixi.h"
+
+1508068451 k:\c course design\students information system\weixi.h
+
+1508073936 source:e:\课设\c语言课设\我的课设\students information system(1)\students information system\caowei.c
+	"caowei.h"
+	"string.h"
+	<stdio.h>
+
+1508059252 e:\课设\c语言课设\我的课设\students information system(1)\students information system\caowei.h
+	"datebase.h"
+
+1508084196 e:\课设\c语言课设\我的课设\students information system(1)\students information system\datebase.h
+	<stdio.h>
+	<stdlib.h>
+	"List_L.h"
+
+1508001770 e:\课设\c语言课设\我的课设\students information system(1)\students information system\list_l.h
+
+1508085650 source:e:\课设\c语言课设\我的课设\students information system(1)\students information system\datebase.c
+	<string.h>
+	<stdio.h>
+	"datebase.h"
+
+1508058345 source:e:\课设\c语言课设\我的课设\students information system(1)\students information system\interfacetree.c
+	<stdarg.h>
+	"InterfaceTree.h"
+
+1508055549 e:\课设\c语言课设\我的课设\students information system(1)\students information system\interfacetree.h
+	<stdio.h>
+	<stdlib.h>
+
+1507647813 source:e:\课设\c语言课设\我的课设\students information system(1)\students information system\list_l.c
+	<stdio.h>
+	<stdlib.h>
+	"List_L.h"
+
+1508117009 source:e:\课设\c语言课设\我的课设\students information system(1)\students information system\main.c
+	<stdio.h>
+	<stdlib.h>
+	"InterfaceTree.h"
+	"quanbao.h"
+	"datebase.h"
+
+1508073213 e:\课设\c语言课设\我的课设\students information system(1)\students information system\quanbao.h
+	"caowei.h"
+	"datebase.h"
+
+1508085313 source:e:\课设\c语言课设\我的课设\students information system(1)\students information system\quanbao.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"quanbao.h"
+	"string.h"
+
+1508075783 source:e:\课设\c语言课设\我的课设\students information system(1)\students information system\weixi.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	"weixi.h"
+
+1508068451 e:\课设\c语言课设\我的课设\students information system(1)\students information system\weixi.h
+

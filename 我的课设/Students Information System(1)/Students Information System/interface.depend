@@ -1,0 +1,138 @@
+# depslib dependency file v1.0
+1507974032 source:k:\c语言课设\界面\interface\interfacetree.c
+	<stdarg.h>
+	"InterfaceTree.h"
+
+1507974610 k:\c语言课设\界面\interface\interfacetree.h
+	<stdio.h>
+	<stdlib.h>
+
+1507977546 source:k:\c语言课设\界面\interface\main.c
+	<stdio.h>
+	<stdlib.h>
+	"InterfaceTree.h"
+
+1507978977 source:k:\c语言课设\界面\interface\weixi.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	"weixi.h"
+
+1507977898 k:\c语言课设\界面\interface\weixi.h
+
+1508056220 source:k:\c语言课设\整体\interface\main.c
+	<stdio.h>
+	<stdlib.h>
+	"InterfaceTree.h"
+	"quanbao.h"
+
+1508055549 k:\c语言课设\整体\interface\interfacetree.h
+	<stdio.h>
+	<stdlib.h>
+
+1508002976 source:k:\c语言课设\整体\interface\weixi.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	"weixi.h"
+
+1507977898 k:\c语言课设\整体\interface\weixi.h
+
+1507999206 source:k:\c语言课设\整体\interface\interfacetree.c
+	<stdarg.h>
+	"InterfaceTree.h"
+
+1508054758 source:k:\c语言课设\整体\interface\caowei.c
+	"caowei.h"
+	"string.h"
+	<stdio.h>
+
+1508053523 k:\c语言课设\整体\interface\caowei.h
+	"datebase.h"
+
+1508055946 k:\c语言课设\整体\interface\datebase.h
+	<stdlib.h>
+	"List_L.h"
+
+1508001770 k:\c语言课设\整体\interface\list_l.h
+
+1508055946 source:k:\c语言课设\整体\interface\datebase.c
+	<string.h>
+	<stdio.h>
+	"datebase.h"
+
+1507647813 source:k:\c语言课设\整体\interface\list_l.c
+	<stdio.h>
+	<stdlib.h>
+	"List_L.h"
+
+1508056220 k:\c语言课设\整体\interface\quanbao.h
+	"caowei.h"
+	"datebase.h"
+
+1508056857 source:k:\c语言课设\整体\interface\quanbao.c
+	<stdio.h>
+	<stdlib.h>
+	"quanbao.h"
+
+1508054758 source:k:\c course design\caowei.c
+	"caowei.h"
+	"string.h"
+	<stdio.h>
+
+1508053523 k:\c course design\caowei.h
+	"datebase.h"
+
+1508055946 k:\c course design\datebase.h
+	<stdlib.h>
+	"List_L.h"
+
+1508001770 k:\c course design\list_l.h
+
+1508055946 source:k:\c course design\datebase.c
+	<string.h>
+	<stdio.h>
+	"datebase.h"
+
+1507999206 source:k:\c course design\interfacetree.c
+	<stdarg.h>
+	"InterfaceTree.h"
+
+1508055549 k:\c course design\interfacetree.h
+	<stdio.h>
+	<stdlib.h>
+
+1507647813 source:k:\c course design\list_l.c
+	<stdio.h>
+	<stdlib.h>
+	"List_L.h"
+
+1508056220 source:k:\c course design\main.c
+	<stdio.h>
+	<stdlib.h>
+	"InterfaceTree.h"
+	"quanbao.h"
+
+1508056220 k:\c course design\quanbao.h
+	"caowei.h"
+	"datebase.h"
+
+1508056857 source:k:\c course design\quanbao.c
+	<stdio.h>
+	<stdlib.h>
+	"quanbao.h"
+
+1508002976 source:k:\c course design\weixi.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	"weixi.h"
+
+1507977898 k:\c course design\weixi.h
+
